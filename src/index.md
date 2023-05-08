@@ -1,15 +1,16 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline:
-actionText: Quick Start →
-actionLink: /guide/
+heroImage: /logo.png
+heroText: Pocketmine Docs
+tagline: Conçu par Azalee créateur de plugin pocketmine, expérience de plus de 4 ans.
+actionText: Commencer
+actionLink: /introduction
 features:
-  - title: Feature 1 Title
-    details: Feature 1 Description
-  - title: Feature 2 Title
-    details: Feature 2 Description
-  - title: Feature 3 Title
-    details: Feature 3 Description
-footer: Made by  with ❤️
+  - title: Tutoriels
+    details: Créez votre propre plugin avec des tutoriels détaillés.
+  - title: Documentation technique
+    details: Une documentation technique simple à comprendre est efficace.
+  - title: API
+    details: Téléchargez les différentes API disponibles de PocketMine avec une version build !
+footer: MIT Licensed | Copyright © 2023 | Made by Azalee
 ---
