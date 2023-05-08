@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /logo.svg
 heroText: Pocketmine Docs
 tagline: Une documentation des plus simples avec, à l'avenir, des vidéos.
 actionText: Commencer
