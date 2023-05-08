@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /logo.svg
 heroText: Pocketmine Docs
-tagline: Conçu par Azalee créateur de plugin pocketmine, expérience de plus de 4 ans.
+tagline: Une documentation des plus simples avec, à l'avenir, des vidéos.
 actionText: Commencer
 actionLink: /introduction
 features:
