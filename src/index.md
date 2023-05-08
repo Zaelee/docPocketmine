@@ -4,7 +4,7 @@ home: true
 heroImage: /logo.png
 heroText: Pocketmine Docs
 tagline: Une documentation des plus simples avec, à l'avenir, des vidéos.
-actionText: Commencer
+actionText: Commencer →
 actionLink: /introduction/setup/
 features:
   - title: Tutoriels
