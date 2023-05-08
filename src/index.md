@@ -1,4 +1,5 @@
 ---
+title: Pocketmine Docs
 home: true
 heroImage: logo.png
 heroText: Pocketmine Docs
